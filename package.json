@@ -1,0 +1,40 @@
+{
+  "name": "testapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "base64-to-image": "^1.0.2",
+    "fastify": "^2.7.1",
+    "react": "^16.8.6",
+    "react-burger-menu": "^2.6.11",
+    "react-dom": "^16.8.6",
+    "react-google-map": "^3.1.1",
+    "react-google-maps": "^9.4.5",
+    "react-image": "^2.2.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-search-box": "^2.0.1",
+    "recompose": "^0.30.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

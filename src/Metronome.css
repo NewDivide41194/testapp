@@ -1,0 +1,15 @@
+.seat-1{
+  background-color: dodgerblue;
+  width:80px;
+  height: 80px;
+  border-radius: 20px;
+  color:white;
+  margin:8px;
+}
+
+.seat-1:hover{
+box-shadow: #832420;
+outline-color: #f5f100;
+outline-style: auto;
+cursor: pointer;
+}
